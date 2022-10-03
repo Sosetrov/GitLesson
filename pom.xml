@@ -30,5 +30,10 @@
             <artifactId>telegrambots</artifactId>
             <version>6.1.0</version>
         </dependency>
+        <dependency>
+            <groupId>org.opentest4j</groupId>
+            <artifactId>opentest4j</artifactId>
+            <version>1.2.0</version>
+        </dependency>
     </dependencies>
 </project>
